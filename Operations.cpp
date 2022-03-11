@@ -1,7 +1,5 @@
 #include "Operations.h"
 
-Hello World!
-
 int addition(int a, int b)
 {
 	int resultat;
